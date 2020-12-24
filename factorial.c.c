@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-/*This is 1st method of taking FActorial.*/
+/*This is 1st method of taking Factorial.*/
 
 main(){
 	
